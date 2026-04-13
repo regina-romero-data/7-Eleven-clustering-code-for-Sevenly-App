@@ -52,6 +52,7 @@ product preferences, temperature patterns, and sports event correlation?
 - Temperature is a significant driver of product demand
 - Soccer match days (Rayados/Tigres) correlate with specific product spikes
 - 4 distinct customer segments with differentiated coupon sensitivity profiles
+  
 
 ## Context
 This project is part of a larger consulting engagement that also included 
